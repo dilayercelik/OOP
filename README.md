@@ -1,6 +1,7 @@
 # OOP
 
 This repository includes some of the OOP projects and works I am currently working on; as such, this repository is a work in progress.
+There is a folder containing the OOP exercises given as part of the "AI Programming with Python" Udacity NanoDegree.
 
 # Atom
 
@@ -23,4 +24,4 @@ from [Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
 - Dilay Fidan Ercelik
 
 # License
-This work licensed under the MIT License - see [LICENSE.txt](
+This work licensed under the MIT License - see [LICENSE.txt](https://github.com/dilayercelik/OOP/blob/master/LICENSE.txt)
